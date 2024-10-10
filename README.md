@@ -22,7 +22,6 @@ dependencyResolutionManagement {
 
 ## 2.Add the CustomToast dependency
 
-```gradle
 dependencies {
     implementation 'com.github.AnurupJaiswal:CustomToast:1.0.8'
 }
