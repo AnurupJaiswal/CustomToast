@@ -18,7 +18,9 @@ dependencyResolutionManagement {
         maven { url 'https://jitpack.io' }
     }
 }
-### 1.2.Add the CustomToast dependency
+
+
+## 2.Add the CustomToast dependency
 
 ```gradle
 dependencies {
